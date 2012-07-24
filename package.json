@@ -34,13 +34,15 @@
         "linux",
         "macos",
         "darwin",
-        "win"
+        "win",
+	"win32"
     ],
     "cpu": [
         "x86",
         "ppc",
         "x86_64",
-        "x64"
+        "x64",
+	"ia32"
     ],
     "engines": [
         "node"
